@@ -1,6 +1,6 @@
 # PyErgo60
 
-Reference project for [Pykeeb](https://github.com/raycewest/pykeeb) and my custom keyboard.  The script is a good example to see how Pykeeb is used - an actual walkthrough of it will be added soon.
+Reference project for [Pykeeb](https://github.com/raycewest/pykeeb) and my custom keyboard.  The script is a good example to see how Pykeeb is used - an actual walkthrough of the code will be added soon.  Very alpha, YMMV if you try to print, so be careful - printing smaller parts or components to test isn't a bad idea.  
 
 # Dependencies
 [Pykeeb](https://github.com/raycewest/pykeeb)
